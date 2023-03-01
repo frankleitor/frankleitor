@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankleitor
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
